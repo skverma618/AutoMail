@@ -49,4 +49,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-[Website Link](https://hackmails.com) | [GitHub Repository](https://github.com/skverma618/AutoMail) 🌐
+[Website Link](https://auto-mail-beta.vercel.app/) | [GitHub Repository](https://github.com/skverma618/AutoMail) 🌐
