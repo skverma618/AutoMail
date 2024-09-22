@@ -14,6 +14,7 @@ const Header = () => {
 
     const { theme, setTheme } = useTheme()
     const [isDark, setIsDark] = React.useState(false)
+    
     useEffect(() => {
         if (theme == 'dark') {
             setIsDark(true)
