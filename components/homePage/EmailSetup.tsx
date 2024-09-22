@@ -35,7 +35,7 @@ function EmailSetup({ open, onClick, subject, setSubject, body, setBody, uploadF
                                 Email Body
 
                                 <p
-                                    className='text-md text-gray-700 dark:text-gray-300'
+                                    className='text-md text-gray-700 dark:text-gray-500'
                                 >
                                     You can use <span className='font-bold'>{`{{name}}`}</span> to use the name of the recipient in the email body
                                 </p>
